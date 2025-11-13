@@ -1,0 +1,6 @@
+train: D:\Jotaaaa Documentos\UNI\Maching Learingn\reciclaje_ai-main\reciclaje_ai-main\dataset\images\train
+val: D:\Jotaaaa Documentos\UNI\Maching Learingn\reciclaje_ai-main\reciclaje_ai-main\dataset\images\val
+
+nc: 4
+names: ['glass', 'metal', 'paper', 'plastic']
+
